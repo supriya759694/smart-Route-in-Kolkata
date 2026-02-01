@@ -56,12 +56,19 @@ HB <-> VM: 5 km (via Strand Road)
 HB <-> PS: 6 km (via BBD Bagh)
 
 VM <-> PS: 3 km (via Chowringhee)
+
 VM <-> NM: 2 km (via Maidan)
+
 PS <-> NM: 1 km (via Camac Street)
+
 PS <-> SL: 10 km (via EM Bypass)
+
 NM <-> SL: 12 km (via AJC Bose Road)
+
 SL <-> AP: 8 km (via VIP Road)
+
 AP <-> HB: 15 km (via NH19)
+
 ---
 
 ## ⚙️ Tech Stack
