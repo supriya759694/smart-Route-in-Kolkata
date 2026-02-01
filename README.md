@@ -38,6 +38,25 @@ Users provide a **start** and **destination**, and the program calculates:
 | SL | Salt Lake |
 | AP | Kolkata Airport |
 
+
+Sample Kolkata Graph
+Nodes (Locations):
+HB: Howrah Bridge
+VM: Victoria Memorial
+PS: Park Street
+SL: Salt Lake
+NM: New Market
+AP: Kolkata Airport (Netaji Subhas Chandra Bose International Airport)
+Edges (Roads with Distances in km):
+HB <-> VM: 5 km (via Strand Road)
+HB <-> PS: 6 km (via BBD Bagh)
+VM <-> PS: 3 km (via Chowringhee)
+VM <-> NM: 2 km (via Maidan)
+PS <-> NM: 1 km (via Camac Street)
+PS <-> SL: 10 km (via EM Bypass)
+NM <-> SL: 12 km (via AJC Bose Road)
+SL <-> AP: 8 km (via VIP Road)
+AP <-> HB: 15 km (via NH19)
 ---
 
 ## ⚙️ Tech Stack
